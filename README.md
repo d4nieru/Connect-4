@@ -9,9 +9,9 @@ C'est un projet de NSI (Numérique et Sciences Informatiques) sur un puissance 4
 
 # Logiciel requis
 
-**•** Google Colab Notebook (Nécessite d'avoir un compte GOOGLE !) ou si vous voulez pas utiliser GOOGLE ou que vous ne possédez pas de compte GOOGLE, voici une alternative s'appelant Jupyter Notebook : https://jupyter.org
+**•** Google Colab Notebook : https://colab.research.google.com (Nécessite d'avoir un compte GOOGLE !) | Si vous voulez pas utiliser GOOGLE ou que vous ne possédez pas de compte GOOGLE, voici une alternative s'appelant Jupyter Notebook : https://jupyter.org
 
 # Installation
 
-Après avoir ouvert le projet, vous pouvez voir jeux de tests à la fin de la page.
+Après avoir ouvert le projet, vous pouvez voir les jeux de tests à la fin de la page.
 **IMPORTANT** : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise, faites-vous plaisir.
