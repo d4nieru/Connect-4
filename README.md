@@ -1,4 +1,4 @@
-# Projet Puissance 4
+# Projet Puissance 4 NSI #4
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ◆ Projet achevé le 22/11/2020 [X]
