@@ -9,7 +9,7 @@ This was a school project on a Connect 4. The initial functions were already wri
 
 # Required software
 
-**•** Google Colab Notebook or Jupyter Notebook. (they are simply the best)
+**•** Google Colab Notebook : https://colab.research.google.com or Jupyter Notebook : https://jupyter.org. (they are simply the best)
 
 # Installation
 
