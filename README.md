@@ -1,17 +1,16 @@
-# Projet Puissance 4 NSI #4
+# Connect 4 (Messy School Projects) #4
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-◆ Projet achevé le 22/11/2020 [X]
+◆ Project completed 22/11/2020 [X]
 
-# À propos
+# About
 
-C'est un projet de NSI (Numérique et Sciences Informatiques) sur un puissance 4 en groupe, les fonctions initiales etaient déjà écrits et on devait compléter le programme.
+This was a school project on a Connect 4. The initial functions were already written and we had to complete the program. (This was a group project !)
 
-# Logiciel requis
+# Required software
 
-**•** Google Colab Notebook ou Jupyter Notebook.
+**•** Google Colab Notebook or Jupyter Notebook. (they are simply the best)
 
 # Installation
 
-Après avoir ouvert le projet, vous pouvez voir les jeux de tests à la fin de la page.
-**IMPORTANT** : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise, faites-vous plaisir.
+After opening the project, you can see the test sets at the end of the page.
