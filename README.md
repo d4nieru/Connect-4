@@ -5,11 +5,11 @@
 
 # À propos
 
-C'est un projet de NSI (Numérique et Sciences Informatiques) sur un puissance 4, Le code initiale etait déjà écrit ( surtout les fonctions principaux ) et on devait compléter le programme. Biensur, je l'ai pas fait tout seul, je les fait avec un pote. Le programme est écrit en python.
+C'est un projet de NSI (Numérique et Sciences Informatiques) sur un puissance 4 en groupe, les fonctions initiales etaient déjà écrits et on devait compléter le programme.
 
 # Logiciel requis
 
-**•** Google Colab Notebook : https://colab.research.google.com (Nécessite d'avoir un compte GOOGLE !) | Si vous voulez pas utiliser GOOGLE ou que vous ne possédez pas de compte GOOGLE, voici une alternative s'appelant Jupyter Notebook : https://jupyter.org
+**•** Google Colab Notebook ou Jupyter Notebook.
 
 # Installation
 
